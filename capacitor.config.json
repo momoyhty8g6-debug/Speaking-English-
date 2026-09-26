@@ -1,0 +1,7 @@
+{
+  "appId": "com.hifz2000.app",
+  "appName": "حفظ 2000 جملة",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "android": { "allowMixedContent": true }
+}
